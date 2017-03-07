@@ -28,7 +28,7 @@ class Calculator
   def cube(number)
     number * number * number
   end
-    
+
 end
 
 RSpec.describe Calculator do
